@@ -19,7 +19,7 @@ Example in Postman: POST, Body: raw and JSON
 }
 * PUT customer: http://localhost:8080/spring-crm-rest/api/customers
 
-Example in Postman: POST, Body: raw and JSON
+Example in Postman: PUT, Body: raw and JSON
 
 {
     "id" : 1,

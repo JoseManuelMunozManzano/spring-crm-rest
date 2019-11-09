@@ -27,5 +27,6 @@ Example in Postman: POST, Body: raw and JSON
 	"lastName" : "Rodríguez",
 	"email" : "mrodriguez@neimerc.com"
 }
+* DELETE customer: http://localhost:8080/spring-crm-rest/api/customers/{customerId}
 
 Note: There is a sql-script folder to create the schemas and the tables.

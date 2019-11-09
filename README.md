@@ -7,4 +7,6 @@ It's a simple web customer tracker in which I do CRUD operations in a mysql Data
 The Spring Configuration is done in pure Java (no XML)
 
 
+GET customers: http://localhost:8080/spring-crm-rest/api/customers
+
 Note: There is a sql-script folder to create the schemas and the tables.
